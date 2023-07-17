@@ -1,1 +1,3 @@
 # Plot_challenge
+
+This challenge was meant to determine the differences and success rate between 4 different drugs that were being tested on a large variety of mice.  To do this, two different data sets needed to be merged, and then cleaned of duplicates, once that had been completed, the analysis was dependent on that new data frame.  Requiring the total amount of mice along with the mean, median, variance, standard deviation, and the structural equation modeling for the Tumor Volume. Bar Charts, Pie Charts, and Scatter Chart where then used to determine the acquired data to get the needed results for each drug then a specific drug.
